@@ -13,14 +13,14 @@ Welcome to the Mozilla Tunisia Localization team. Here you can find the introduc
 ## Platforms and tools
 
 Localization platforms (Needs sign-up) :
-  [Pontoon](https://pontoon.mozilla.org)
-  [Transifex](https://www.transifex.com/)
-  [Locamotion](https://mozilla.locamotion.org)
-  [Github ](http://github.com/mozilla-l10n/)
+  - [Pontoon](https://pontoon.mozilla.org)
+  - [Transifex](https://www.transifex.com/)
+  - [Locamotion](https://mozilla.locamotion.org)
+  - [Github ](http://github.com/mozilla-l10n/)
   
 Mailing lists (to subscribe follow) :
-  [Arabic l10n ML](https://lists.mozilla.org/listinfo/dev-l10n-ar)
-  [Global L10n ML](https://lists.mozilla.org/listinfo/dev-l10n)
+  - [Arabic l10n ML](https://lists.mozilla.org/listinfo/dev-l10n-ar)
+  - [Global L10n ML](https://lists.mozilla.org/listinfo/dev-l10n)
 
 Additional :
   [The arabic localization dashboard](https://l10n.mozilla-community.org/webdashboard/?locale=ar)
