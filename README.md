@@ -47,5 +47,3 @@ SuMo L10n IRC channel : #sumo-l10ns
 ## Skills and requirements
 - Arabic language
 - English language
-
-## Availability
