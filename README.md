@@ -2,11 +2,11 @@
 Welcome to the Mozilla Tunisia Localization team. Here you can find the introduction and how to get involved with the localizers working team, you can also find issues with the localization tasks to be done.
 
 ## Team leaders and mentors 
- [Asma Saidi]()
+ [Asma Saidi](https://mozillians.org/fr/u/asma.saidi/)
   ``` 
   email : assma.saidi@gmail.com
   ```
- [Ghaith Limam]()
+ [Ghaith Limam](https://mozillians.org/fr/u/Synergy/)
   ``` 
   email : limgha.e@gmail.com
   ```
