@@ -31,7 +31,7 @@ Localization platforms (Needs sign-up) :
   - [Pontoon](https://pontoon.mozilla.org) (Currently the most used platform)
   - [Transifex](https://www.transifex.com/)
   - [Locamotion](https://mozilla.locamotion.org)
-  - [Github](http://github.com/mozilla-l10n/)
+  - [Github](https://github.com/mozilla-l10n/)
   - [Support Mozilla](https://support.mozilla.org/)
  
 Mailing lists (to subscribe follow) :
